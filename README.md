@@ -9,7 +9,7 @@
 6. A test that ensures when the loadFeed function is called and completes its work.
 7. A test that ensures when a new feed is loaded by the loadFeed function that the content actually changes. 
 
-## Working site (includes Jasmine)
+## Go to the link below to check out the site (includes Jasmine test results at the bottom)
 http://mzaret2000.github.io/frontend-nanodegree-feedreader/
 
 ## References: 
